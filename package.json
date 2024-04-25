@@ -35,12 +35,12 @@
     "dayjs": "^1.11.10",
     "embla-carousel-react": "^8.0.1",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0",
+    "react-dom": "^18.3.0",
     "recharts": "^2.12.4"
   },
   "devDependencies": {
     "@types/react": "^18.2.75",
-    "@types/react-dom": "^18.2.24",
+    "@types/react-dom": "^18.3.0",
     "@vitejs/plugin-react": "^4.2.1",
     "autoprefixer": "^10.4.19",
     "eslint": "^8.57.0",
