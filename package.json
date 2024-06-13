@@ -20,7 +20,7 @@
     "@mantine/code-highlight": "^7.7.1",
     "@mantine/core": "^7.7.1",
     "@mantine/dates": "^7.7.1",
-    "@mantine/dropzone": "^7.7.1",
+    "@mantine/dropzone": "^7.10.2",
     "@mantine/form": "^7.7.1",
     "@mantine/hooks": "^7.7.1",
     "@mantine/modals": "^7.7.1",
